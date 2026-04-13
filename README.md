@@ -5,21 +5,27 @@ To efficiently capture, track, and convert leads into opportunities through auto
 ## Customer Objects
 Both Sale Activity/Task and Lead Field are linked to **Lead** object as their master relationship
 ### ✅Sale Activity/Task
-    ▪️Outcomes = Follow up Needed, Successful, No Response
-    ▪️Activity Type = Call, Email, Web
-    ▪️Activity Date = Date
+   - **Outcomes** = Follow up Needed, Successful, No Response
+   - **Activity Type** = Call, Email, Web
+   - **Activity Date** = Date
+
 ### ✅Lead Field 
-    ▪️Status = Pending, Completed, Cancelled
-    ▪️Follow-Up Date = Date
-    ▪️Note = Long Text
+   - **Status** = Pending, Completed, Cancelled
+   - **Follow-Up Date** = Date
+   - **Note** = Long Text
 
 ## ⚒️Tools Used
-    ▪️Record Trigering Flow
-    ▪️Screen Record Flow
-    ▪️Validation Rule
-    ▪️Approval Process
-    ▪️Formulas
-    ▪️Page Layout
-    ▪️Dashboard
-Screen Shots
+    - Record Trigering Flow
+    - Screen Record Flow
+    - Validation Rule
+    - Approval Process
+    - Formulas
+    - Page Layout
+    - Dashboard
+
+## 📷Screen Shots
+
+### Screen Flow
+ | ![Screen Flow 1/2](Flow1.png) | ![Screen Flow 2/2](Flow2.png)
+
     
