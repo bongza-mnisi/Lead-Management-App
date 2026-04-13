@@ -15,17 +15,21 @@ Both Sale Activity/Task and Lead Field are linked to **Lead** object as their ma
    - **Note** = Long Text
 
 ## ⚒️Tools Used
-    - Record Trigering Flow
-    - Screen Record Flow
-    - Validation Rule
-    - Approval Process
-    - Formulas
-    - Page Layout
-    - Dashboard
+   - Record Trigering Flow
+   - Screen Record Flow
+   - Validation Rule
+   - Approval Process
+   - Formulas
+   - Page Layout
+   - Dashboard
 
 ## 📷Screen Shots
 
+### Auto Triggering Flow
+   ![Triggering Flow](flow3.png)
 ### Screen Flow
- | ![Screen Flow 1/2](Flow1.png) | ![Screen Flow 2/2](Flow2.png)
+ | ![Screen Flow 1/2](Flow1.png) | ![Screen Flow 2/2](Flow2.png) |
+### Dashboard
+   ![Management Dashboard](Dashboard.png)
 
     
