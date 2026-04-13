@@ -9,7 +9,7 @@ Both Sale Activity/Task and Lead Field are linked to **Lead** object as their ma
    - **Activity Type** = Call, Email, Web
    - **Activity Date** = Date
 
-### ✅Lead Field 
+### ✅Lead Follow-Up 
    - **Status** = Pending, Completed, Cancelled
    - **Follow-Up Date** = Date
    - **Note** = Long Text
