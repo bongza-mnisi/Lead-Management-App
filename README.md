@@ -25,11 +25,16 @@ Both Sale Activity/Task and Lead Field are linked to **Lead** object as their ma
 
 ## 📷Screen Shots
 
-### Auto Triggering Flow
+  **Auto Triggering Flow** ✔️
+   
    ![Triggering Flow](flow3.png)
-### Screen Flow
- | ![Screen Flow 1/2](Flow1.png) | ![Screen Flow 2/2](Flow2.png) |
-### Dashboard
+  
+   **Screen Flow**✔️
+ 
+  ![Screen Flow 1/2](Flow1.png)  ![Screen Flow 2/2](Flow2.png) 
+
+**Dashboard**✔️
+  
    ![Management Dashboard](Dashboard.png)
 
     
