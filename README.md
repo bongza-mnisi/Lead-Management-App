@@ -45,4 +45,8 @@ Both Sale Activity/Task and Lead Field are linked to **Lead** object as their ma
 ## **Dashboard**✔️
    ![Management Dashboard](Dashboard.png)
 
+## Addition Notes
+
+![Open note File](Notes.md)
+
     
