@@ -35,7 +35,7 @@ Both Sale Activity/Task and Lead Field are linked to **Lead** object as their ma
 ## **Validation Rule**✔️
   ![Validation Rule](Validation.png)
 
-## **Approcal Process**✔️
+## **Approval Process**✔️
   ![Approval Process](Approval.png)
 
 ## **Formulas**✔️
